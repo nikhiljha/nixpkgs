@@ -94,7 +94,7 @@
     "ldapauth-fork": "5.0.5",
     "ssh2": "1.16.0",
     "svg-captcha": "1.4.0",
-    "image-size": "1.1.1",
+    "image-size": "1.2.1",
     "acme-client": "4.2.5",
     "aedes": "0.39.0",
     "mysql2": "3.11.4",
